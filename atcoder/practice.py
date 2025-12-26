@@ -5,10 +5,12 @@ Practice question in atcoder
 """
 
 
-def placing_marbles():
-    """Count the number of '1' in the input string"""
-    return input().count('1')
+def problem_a():
+    a = input()
+    b, c = map(int, input().split())
+    s = input()
+    return str(a + b + c) + " " + s
 
 
 if __name__ == '__main__':
-    print(placing_marbles())
+    print(problem_a())
