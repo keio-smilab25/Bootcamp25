@@ -16,4 +16,4 @@ out[gray <= 128] = 0
 
 cv2.imshow("window", out)
 cv2.waitKey(0)
-cv2.destroyAllWIndows()
+
