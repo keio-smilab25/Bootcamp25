@@ -1,0 +1,3 @@
+Q10
+(.venv) kayaharadaichi@Mac q100 % wc -l popular-names.txt 
+    2779 popular-names.txt
