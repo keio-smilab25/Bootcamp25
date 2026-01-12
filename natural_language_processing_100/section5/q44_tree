@@ -1,0 +1,44 @@
+digraph {
+	node [fontname="Hiragino Sans"]
+	edge [fontname="Hiragino Sans"]
+	graph [fontname="Hiragino Sans"]
+	0 [label="人工知能学会記事"]
+	0 -> 2
+	1 [label="「教養知識としての"]
+	1 -> 2
+	2 [label="AI」	"]
+	2 -> 3
+	3 [label="『人工知能とは何か』という"]
+	3 -> 4
+	4 [label="問いに対する"]
+	4 -> 5
+	5 [label="答えは，"]
+	5 -> 6
+	6 [label="単純ではない．"]
+	6 -> 12
+	7 [label="人工知能の"]
+	7 -> 8
+	8 [label="専門家の"]
+	8 -> 9
+	9 [label="間でも，"]
+	9 -> 12
+	10 [label="大きな"]
+	10 -> 11
+	11 [label="議論が"]
+	11 -> 12
+	12 [label="あり，"]
+	12 -> 16
+	13 [label="それだけで"]
+	13 -> 16
+	14 [label="1冊の"]
+	14 -> 15
+	15 [label="本と"]
+	15 -> 16
+	16 [label="なってしまうほど，"]
+	16 -> 19
+	17 [label="見解の"]
+	17 -> 18
+	18 [label="異なる"]
+	18 -> 19
+	19 [label="ものである．"]
+}
